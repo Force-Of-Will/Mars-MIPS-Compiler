@@ -18,5 +18,5 @@ make
 ```
 To compile with input code
 ```
-./final -o HelloWorld < inputFile.asm
+./final -o HelloWorld < inputFile
 ```
